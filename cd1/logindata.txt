@@ -1,0 +1,5 @@
+username,email_id,password,playlist_id,user_type
+devina goel,devina13@gmail.com,loginadmin1,1,admin
+srishti paul,srishti7@gmail.com,loginadmin2,2,admin
+shreenidhi,shreenidhi@gmail.com,loginadmin3,3,admin
+khushi,khushi1234@gmail.com,123456789,4,user

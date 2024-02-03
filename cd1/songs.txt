@@ -1,0 +1,16 @@
+song_id,songname,artist,album,decade,mood,genre
+1,fire,BTS,Young Forever,20s,happy,kpop
+2,I like me better,Lauv,Lauv EP,10s,romantic,pop
+3,umbrella,Rihanna,Good Girl Gone Bad: Reloaded,00s,Dance,pop
+4,love the way you lie,Skylar Grey,Don't Look Down,2010s,sad,Hip-Hop
+5,I'm a mess,Bebe Rexha,Expectations,2010s,dance,pop
+6,rewrite the stars,Zac Efron and Zendaya,The Greatest Showman: Reimagined,2010s,feelings,pop
+7,filter,BTS,Map of the Soul: 7,2020s,feelings,pop
+8,scars to your beautiful,Alessia Cara,Know-It-All,2010s,self love,pop
+9,sit still look pretty,Daya,Sit Still Look Pretty,2010s,self love,pop
+11,at my worst,Pink Sweat$,The Prelude,2020s,love,R&B/Soul
+12,pretty's on the inside,Chloe Adams,Live at the Green Note,2010s,self love,pop
+13,life goes on,BTS,BE,2020s,hope,pop
+14,princesses don't cry,Aviva Mongillo,Songs About Boys,2010s,self love,pop
+15,magic shop,BTS,Love Yourself: Tear,2010s,self love,kpop
+16,dynamite,BTS,Dynamite,2020s,dance,pop
